@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\bin\Debug\net9.0\Biogenom.Shared.deps.json
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\bin\Debug\net9.0\Biogenom.Shared.runtimeconfig.json
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\bin\Debug\net9.0\Biogenom.Shared.dll
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\bin\Debug\net9.0\Biogenom.Shared.pdb
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.AssemblyInfo.cs
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.dll
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\refint\Biogenom.Shared.dll
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.pdb
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.genruntimeconfig.cache
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\ref\Biogenom.Shared.dll

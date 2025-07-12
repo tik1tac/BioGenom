@@ -1,0 +1,6 @@
+@Biogenom.API_HostAddress = http://localhost:5216
+
+GET {{Biogenom.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
