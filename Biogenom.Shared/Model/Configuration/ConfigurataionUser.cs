@@ -12,6 +12,6 @@ internal class ConfigurataionUser : IEntityTypeConfiguration<UserEntity>
 
         builder.HasOne(p => p.Meal)
             .WithOne(p => p.User)
-            .HasForeignKey<MealEntity>(p => p.Id);
+            .HasForeignKey<MealEntity>(p => p.IdUser);
     }
 }

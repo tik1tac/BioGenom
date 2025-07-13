@@ -13,5 +13,11 @@ internal class ConfigurationNeDailyIntake : IEntityTypeConfiguration<NewDailyInt
         builder.HasOne(p => p.Meal)
             .WithMany(p => p.NewDailyIntake)
             .HasForeignKey(p => p.IdMeal);
+        builder.HasOne(p => p.Elements)
+            .WithOne(p => p.NewDailyIntake)
+            .HasForeignKey<ElementsEntity>(p => p.IdNewDailyIntake);
+        builder.HasOne(p => p.RecommendetaionDietary)
+            .WithOne(p=>p.NewDailyIntake)
+            .HasForeignKey<RecommendetaionDietaryEntity>(p=>p.IdNewDailyIntake);
     }
 }

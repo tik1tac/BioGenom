@@ -5,14 +5,13 @@
 public class ElementsEntity 
 {
     public Guid Id { get; set; }
-    public string Name { get; set; }
+    public string Name { get; set; } //Название
     public string? Description { get; set; }
-    public double? CurrentValue { get; set; }
-    public double? FromNorm {  get; set; }
-    public double? ToNorm { get; set; }
-    public bool? InNorm { get; set; }
-    public Guid IdMeal { get; set; }
-    public MealEntity Meal { get; set; }
+    public double? FromNorm {  get; set; } //Норма от такого-то значения
+    public double? ToNorm { get; set; } //Норма до такого-то значения
+    public bool? InNorm { get; set; } //В норме ли находится
+    public List<MealElementsEntity> MealElements { get; set; }
 
+    public Guid IdNewDailyIntake { get; set; }
     public NewDailyIntakeEntity NewDailyIntake { get; set; }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Biogenom.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd669c75684375745d456299a855ad7e389e6180")]
 [assembly: System.Reflection.AssemblyProductAttribute("Biogenom.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Biogenom.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

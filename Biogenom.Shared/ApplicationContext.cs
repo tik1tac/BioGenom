@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Biogenom.Shared;
 
-public class ApplicationContext :DbContext
+public class ApplicationContext : DbContext
 {
     public ApplicationContext(DbContextOptions options)
     : base(options)
@@ -21,12 +21,15 @@ public class ApplicationContext :DbContext
         modelBuilder.ApplyConfiguration(new ConfigurataionUser());
         modelBuilder.ApplyConfiguration(new ConfigurationNeDailyIntake());
         modelBuilder.ApplyConfiguration(new ConfigurationProduct());
+        modelBuilder.ApplyConfiguration(new ConfigurationRecommendetaionDietary());
+        modelBuilder.ApplyConfiguration(new ConfigurationElementMeal());
     }
 
     public DbSet<ElementsEntity> Elements { get; set; }
     public DbSet<MealEntity> Meal { get; set; }
     public DbSet<UserEntity> User { get; set; }
     public DbSet<NewDailyIntakeEntity> NewDailyIntake { get; set; }
-    public DbSet<ProductEntity> Products{ get; set; }
-
+    public DbSet<ProductEntity> Products { get; set; }
+    public DbSet<RecommendetaionDietaryEntity> RecDietary { get; set; }
+    public DbSet<MealElementsEntity> MealElements { get; set; }
 }

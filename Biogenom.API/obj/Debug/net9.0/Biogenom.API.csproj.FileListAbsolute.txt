@@ -128,3 +128,4 @@ C:\Users\user\source\repos\Biogenom.API\Biogenom.API\obj\Debug\net9.0\refint\Bio
 C:\Users\user\source\repos\Biogenom.API\Biogenom.API\obj\Debug\net9.0\Biogenom.API.pdb
 C:\Users\user\source\repos\Biogenom.API\Biogenom.API\obj\Debug\net9.0\Biogenom.API.genruntimeconfig.cache
 C:\Users\user\source\repos\Biogenom.API\Biogenom.API\obj\Debug\net9.0\ref\Biogenom.API.dll
+C:\Users\user\source\repos\Biogenom.API\Biogenom.API\obj\Debug\net9.0\Biogenom.API.sourcelink.json

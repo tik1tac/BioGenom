@@ -9,13 +9,6 @@ internal class ConfigurataionElements : IEntityTypeConfiguration<ElementsEntity>
     {
         builder.HasKey(x => x.Id);
         builder.Property(x => x.Id).ValueGeneratedOnAdd();
-        
-        builder.HasOne(p => p.Meal)
-            .WithMany(p => p.Elements)
-            .HasForeignKey(p => p.IdMeal);
 
-        builder.HasOne(p => p.NewDailyIntake)
-            .WithOne(p => p.Elements)
-            .HasForeignKey<NewDailyIntakeEntity>(p=>p.Id);
     }
 }

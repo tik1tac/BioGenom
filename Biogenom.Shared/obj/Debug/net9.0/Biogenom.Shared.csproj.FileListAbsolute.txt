@@ -12,3 +12,4 @@ C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\refint\
 C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.pdb
 C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.genruntimeconfig.cache
 C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\ref\Biogenom.Shared.dll
+C:\Users\user\source\repos\Biogenom.API\Biogenom.Shared\obj\Debug\net9.0\Biogenom.Shared.sourcelink.json

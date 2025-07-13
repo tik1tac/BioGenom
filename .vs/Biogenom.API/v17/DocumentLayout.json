@@ -3,72 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Biogenom.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\controllers\\nutritionqualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\controllers\\nutritionqualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\newdailyintakeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\newdailyintakeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\mealentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\mealentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\elementsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\elementsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250713090256_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biogenom.Shared\\Migrations\\20250713090256_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250712154228_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biogenom.Shared\\Migrations\\20250712154228_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\recommendetaiondietaryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\recommendetaiondietaryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurataionelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurataionelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\newdailyintakeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\newdailyintakeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurationnedailyintake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurationnedailyintake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\controllers\\nutritionqualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\controllers\\nutritionqualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\mealentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\mealentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurataionelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurataionelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\elementsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\elementsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurataionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurataionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurataionmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurataionmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\getnewdailyintake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\getnewdailyintake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurationelementmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurationelementmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\mealelementsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\mealelementsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\biogenom.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\biogenom.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurataionmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurataionmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurationrecommendetaiondietary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurationrecommendetaiondietary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\model\\configuration\\configurationproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|solutionrelative:biogenom.shared\\model\\configuration\\configurationproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250712154228_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biogenom.Shared\\Migrations\\20250712154228_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.api\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0FD79A-7765-41EC-9247-80F9D56852B2}|Biogenom.API\\Biogenom.API.csproj|solutionrelative:biogenom.api\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C43DD035-A939-404E-91AE-C06A6D046245}|Biogenom.Shared\\Biogenom.Shared.csproj|c:\\users\\user\\source\\repos\\biogenom.api\\biogenom.shared\\biogenom.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -85,34 +109,88 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250712154228_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250712154228_Initial.cs",
-              "RelativeDocumentMoniker": "Biogenom.Shared\\Migrations\\20250712154228_Initial.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250712154228_Initial.cs",
-              "RelativeToolTip": "Biogenom.Shared\\Migrations\\20250712154228_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T15:42:29.149Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250713090256_init1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250713090256_init1.cs",
+              "RelativeDocumentMoniker": "Biogenom.Shared\\Migrations\\20250713090256_init1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250713090256_init1.cs",
+              "RelativeToolTip": "Biogenom.Shared\\Migrations\\20250713090256_init1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T09:02:56.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewDailyIntakeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\NewDailyIntakeEntity.cs",
+              "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\NewDailyIntakeEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\NewDailyIntakeEntity.cs",
+              "RelativeToolTip": "Biogenom.Shared\\Model\\NewDailyIntakeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:54:35.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MealElementsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\MealElementsEntity.cs",
+              "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\MealElementsEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\MealElementsEntity.cs",
+              "RelativeToolTip": "Biogenom.Shared\\Model\\MealElementsEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:58:00.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfigurationRecommendetaionDietary.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurationRecommendetaionDietary.cs",
+              "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\Configuration\\ConfigurationRecommendetaionDietary.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurationRecommendetaionDietary.cs",
+              "RelativeToolTip": "Biogenom.Shared\\Model\\Configuration\\ConfigurationRecommendetaionDietary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:52:40.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecommendetaionDietaryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\RecommendetaionDietaryEntity.cs",
+              "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\RecommendetaionDietaryEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\RecommendetaionDietaryEntity.cs",
+              "RelativeToolTip": "Biogenom.Shared\\Model\\RecommendetaionDietaryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:50:45.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "NutritionQualityController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\Controllers\\NutritionQualityController.cs",
               "RelativeDocumentMoniker": "Biogenom.API\\Controllers\\NutritionQualityController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\Controllers\\NutritionQualityController.cs",
               "RelativeToolTip": "Biogenom.API\\Controllers\\NutritionQualityController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAABnAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T14:16:58.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\appsettings.json",
               "RelativeDocumentMoniker": "Biogenom.API\\appsettings.json",
@@ -125,20 +203,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Biogenom.API",
+              "DocumentIndex": 18,
+              "Title": "Biogenom.API.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\Biogenom.API.csproj",
               "RelativeDocumentMoniker": "Biogenom.API\\Biogenom.API.csproj",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\Biogenom.API.csproj",
               "RelativeToolTip": "Biogenom.API\\Biogenom.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-12T14:04:36.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T14:04:36.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "Biogenom.API\\ServiceExtensions.cs",
@@ -146,12 +223,11 @@
               "RelativeToolTip": "Biogenom.API\\ServiceExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T14:04:39.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T14:04:39.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\Program.cs",
               "RelativeDocumentMoniker": "Biogenom.API\\Program.cs",
@@ -159,25 +235,49 @@
               "RelativeToolTip": "Biogenom.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T14:04:13.715Z",
+              "WhenOpened": "2025-07-12T14:04:13.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MealEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\MealEntity.cs",
+              "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\MealEntity.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\MealEntity.cs",
+              "RelativeToolTip": "Biogenom.Shared\\Model\\MealEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T11:29:41.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
+              "Title": "ConfigurationElementMeal.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurationElementMeal.cs",
+              "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\Configuration\\ConfigurationElementMeal.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurationElementMeal.cs",
+              "RelativeToolTip": "Biogenom.Shared\\Model\\Configuration\\ConfigurationElementMeal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:28:11.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ConfigurationNeDailyIntake.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurationNeDailyIntake.cs",
               "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\Configuration\\ConfigurationNeDailyIntake.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurationNeDailyIntake.cs",
               "RelativeToolTip": "Biogenom.Shared\\Model\\Configuration\\ConfigurationNeDailyIntake.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T13:30:59.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "ConfigurationProduct.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurationProduct.cs",
               "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\Configuration\\ConfigurationProduct.cs",
@@ -185,47 +285,32 @@
               "RelativeToolTip": "Biogenom.Shared\\Model\\Configuration\\ConfigurationProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T13:30:35.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T13:30:35.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProductEntity.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\ProductEntity.cs",
               "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\ProductEntity.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\ProductEntity.cs",
               "RelativeToolTip": "Biogenom.Shared\\Model\\ProductEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T13:13:36.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewDailyIntakeEntity.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\NewDailyIntakeEntity.cs",
-              "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\NewDailyIntakeEntity.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\NewDailyIntakeEntity.cs",
-              "RelativeToolTip": "Biogenom.Shared\\Model\\NewDailyIntakeEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T13:13:15.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ApplicationContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "Biogenom.Shared\\ApplicationContext.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\ApplicationContext.cs",
               "RelativeToolTip": "Biogenom.Shared\\ApplicationContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T11:56:02.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T11:56:02.081Z"
             },
             {
               "$type": "Document",
@@ -235,66 +320,65 @@
               "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\Configuration\\ConfigurataionUser.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurataionUser.cs",
               "RelativeToolTip": "Biogenom.Shared\\Model\\Configuration\\ConfigurataionUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T11:55:32.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "ConfigurataionMeal.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurataionMeal.cs",
               "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\Configuration\\ConfigurataionMeal.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurataionMeal.cs",
               "RelativeToolTip": "Biogenom.Shared\\Model\\Configuration\\ConfigurataionMeal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T11:55:25.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ConfigurataionElements.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurataionElements.cs",
               "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\Configuration\\ConfigurataionElements.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\Configuration\\ConfigurataionElements.cs",
               "RelativeToolTip": "Biogenom.Shared\\Model\\Configuration\\ConfigurataionElements.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T11:55:17.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ElementsEntity.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\ElementsEntity.cs",
               "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\ElementsEntity.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\ElementsEntity.cs",
               "RelativeToolTip": "Biogenom.Shared\\Model\\ElementsEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-12T11:36:01.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MealEntity.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\MealEntity.cs",
-              "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\MealEntity.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\MealEntity.cs",
-              "RelativeToolTip": "Biogenom.Shared\\Model\\MealEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAABcAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "GetNewDailyIntake.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\GetNewDailyIntake.cs",
+              "RelativeDocumentMoniker": "Biogenom.API\\GetNewDailyIntake.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.API\\GetNewDailyIntake.cs",
+              "RelativeToolTip": "Biogenom.API\\GetNewDailyIntake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T11:29:41.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T18:50:14.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UserEntity.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Model\\UserEntity.cs",
               "RelativeDocumentMoniker": "Biogenom.Shared\\Model\\UserEntity.cs",
@@ -307,20 +391,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Biogenom.Shared",
+              "DocumentIndex": 21,
+              "Title": "20250712154228_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250712154228_Initial.cs",
+              "RelativeDocumentMoniker": "Biogenom.Shared\\Migrations\\20250712154228_Initial.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Migrations\\20250712154228_Initial.cs",
+              "RelativeToolTip": "Biogenom.Shared\\Migrations\\20250712154228_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T15:42:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Biogenom.Shared.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Biogenom.Shared.csproj",
               "RelativeDocumentMoniker": "Biogenom.Shared\\Biogenom.Shared.csproj",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Biogenom.API\\Biogenom.Shared\\Biogenom.Shared.csproj",
               "RelativeToolTip": "Biogenom.Shared\\Biogenom.Shared.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-12T11:05:04.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-07-12T11:05:04.446Z"
             }
           ]
         }
